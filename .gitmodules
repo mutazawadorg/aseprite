@@ -78,3 +78,6 @@
 [submodule "src/psd"]
 	path = src/psd
 	url = https://github.com/aseprite/psd.git
+[submodule "third_party/curl"]
+	path = third_party/curl
+	url = https://github.com/aseprite/curl.git
